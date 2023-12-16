@@ -21,3 +21,6 @@ Para rodar o projeto localmente, siga estes passos:
 
 ```bash
 git clone https://github.com/Dev-Henrique-Almeida/Atividade_Teoria.git
+```
+
+2. Link do funcionamento: [Vídeo](https://github.com/Dev-Henrique-Almeida/Atividade_Teoria.git)
